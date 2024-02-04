@@ -1,3 +1,7 @@
+![image](https://github.com/kulhara-ankit/nxt-slide-reactjs/assets/146313680/9d948c4f-0a5d-479e-b2a4-2e73be910ba8)
+
+
+
 ### Project Description
 
 In this project, you are going to build a **Nxt Slides** Application.
